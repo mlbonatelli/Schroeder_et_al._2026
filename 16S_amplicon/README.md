@@ -3,3 +3,5 @@ The 16S rRNA gene amplicon sequencing analysis was done with [DADA2](https://ben
 The script used for DADA2 is named: [dada2-16S.R](https://github.com/mlbonatelli/Schroeder_et_al._2026/blob/main/16S_amplicon/dada2-16S.R). And for the raw data, please consult the BioProject PRJNA1300313 at NCBI.
 
 For phyloseq, all information can be easily visualized in [16S_analysis_git.md](https://github.com/mlbonatelli/Schroeder_et_al._2026/blob/main/16S_amplicon/16S_analysis_git.md). To see all the code for the phyloseq analysis, please consult the file [16S_analysis_git_just_code.Rmd](https://github.com/mlbonatelli/Schroeder_et_al._2026/blob/main/16S_amplicon/16S_analysis_git_just_code.Rmd).
+
+For the figures of the published paper, please go to [figures_article](https://github.com/mlbonatelli/Schroeder_et_al._2026/tree/main/16S_amplicon/figures_article).
