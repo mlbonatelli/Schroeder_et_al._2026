@@ -87,7 +87,7 @@ ps
     ## sample_data() Sample Data:       [ 95 samples by 14 sample variables ]
     ## tax_table()   Taxonomy Table:    [ 1540 taxa by 6 taxonomic ranks ]
 
-# Raryfing
+# Rarefying
 
 ``` r
 set.seed(1)
