@@ -1,0 +1,17 @@
+SRA,Library_Name,Sample_Name,Host,isolation_source,Source,geo_loc_name_country,geo_loc_name_country_continent,Paper
+SRR6151779,reactor_M_parvus_1,reactor_M_parvus,NA,Microcerotermes parvus,Reactor,France,Europe,Auer et al. 2017
+SRR6151780,gut_T_hospes_2,gut_T_hospes,Termes hospes,NA,Gut,France,Europe,Auer et al. 2017
+SRR6151781,reactor_N_lujae_1,reactor_N_lujae,NA,Nasutitermes lujae,Reactor,France,Europe,Auer et al. 2017
+SRR6151782,gut_N_ephratae_2,gut_N_ephratae,Nasutitermes ephratae,NA,Gut,France,Europe,Auer et al. 2017
+SRR6151783,reactor_M_parvus_2,reactor_M_parvus,NA,Microcerotermes parvus,Reactor,France,Europe,Auer et al. 2017
+SRR6151784,gut_N_ephratae_1,gut_N_ephratae,Nasutitermes ephratae,NA,Gut,France,Europe,Auer et al. 2017
+SRR6151785,gut_N_lujae_2,gut_N_lujae,Nasutitermes lujae,NA,Gut,France,Europe,Auer et al. 2017
+SRR6151786,gut_N_lujae_1,gut_N_lujae,Nasutitermes lujae,NA,Gut,France,Europe,Auer et al. 2017
+SRR6151787,reactor_T_hospes_2,reactor_T_hospes,NA,Termes hospes,Reactor,France,Europe,Auer et al. 2017
+SRR6151788,reactor_T_hospes_1,reactor_T_hospes,NA,Termes hospes,Reactor,France,Europe,Auer et al. 2017
+SRR6151789,gut_M_parvus_2,gut_M_parvus,Microcerotermes parvus,NA,Gut,France,Europe,Auer et al. 2017
+SRR6151790,gut_M_parvus_1,gut_M_parvus,Microcerotermes parvus,NA,Gut,France,Europe,Auer et al. 2017
+SRR6151791,reactor_N_ephratae_2,reactor_N_ephratae,NA,Nasutitermes ephratae,Reactor,France,Europe,Auer et al. 2017
+SRR6151792,reactor_N_ephratae_1,reactor_N_ephratae,NA,Nasutitermes ephratae,Reactor,France,Europe,Auer et al. 2017
+SRR6151793,reactor_N_lujae_2,reactor_N_lujae,NA,Nasutitermes lujae,Reactor,France,Europe,Auer et al. 2017
+SRR6151794,gut_T_hospes_1,gut_T_hospes,Termes hospes,NA,Gut,France,Europe,Auer et al. 2017
