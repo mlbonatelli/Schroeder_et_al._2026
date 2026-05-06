@@ -54,8 +54,8 @@ ps <- subset_taxa(ps.silva.nochim, Kingdom !="Archaea")
 ps
 ```
 
-# Raryfing 
-```{r raryfing}
+# Rarefying 
+```{r rarefying}
 set.seed(1)
 
 counts <- sample_sums(ps)
