@@ -4,7 +4,7 @@ The script used for DADA2 is named according to the papers were we retrieved the
 
 1. Auer et al. 2017 (Auer_16S): PRJNA413670. DOI of the paper: 10.3389/fmicb.2017.02623
 
-2. Deng et al. 2017 (Deng_16S): **FINISH**
+2. Deng et al. 2017 (Deng_16S): PRJNA353770. DOI of the paper: 10.1007/s00253-017-8332-3
 
 3. Deng et al. 2018 (Deng_2_16S): PRJNA412737. DOI of the paper: 10.1007/s00253-018-8877-9
 
